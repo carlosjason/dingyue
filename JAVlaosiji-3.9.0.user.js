@@ -5,7 +5,8 @@
 // @supportURL   https://github.com/carlosjason/dingyue/issues
 // @source       https://github.com/carlosjason/dingyue
 // @description  JAV老司机神器,支持各Jav老司机站点。拥有高效浏览Jav的页面排版，JAV高清预览大图，JAV列表无限滚动自动加载，合成“挊”的自动获取JAV磁链接，一键自动115离线下载。。。。没时间解释了，快上车！
-// @author       Hobby
+// @updateURL    https://github.com/carlosjason/dingyue/scripts/main/JAVlaosiji-3.9.0.user.js
+// @downloadURL  https://github.com/carlosjason/dingyue/scripts/main/JAVlaosiji-3.9.0.user.js
 
 // @require      https://lib.baomitu.com/jquery/2.2.4/jquery.min.js
 // @require      https://lib.baomitu.com/lovefield/2.1.12/lovefield.min.js
